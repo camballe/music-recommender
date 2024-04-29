@@ -1,2 +1,2 @@
-### Here is the decision tree used in the algorithm:
+### Here is the decision tree:
 ![Decison Tree](./decision-tree.svg)
